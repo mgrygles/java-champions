@@ -357,8 +357,10 @@ members:
       nomination: Italy
     city: Turin
     social:
+      github: https://github.com/sbordet
+      linkedin: https://www.linkedin.com/in/simonebordet
+      sessionize: https://sessionize.com/simonebordet
       twitter: https://twitter.com/simonebordet
-      mastodon: https://mastodon.online/@simonebordet
     avatar: img/avatars/simonebordet.png
   - name: Bruno Borges
     year: 2019
@@ -1104,6 +1106,7 @@ members:
       twitter: https://twitter.com/rodrigograciano
       mastodon: https://mastodon.social/@graciano
       bluesky: https://bsky.app/profile/graciano.bsky.social
+      sessionize: https://sessionize.com/graciano
     avatar: img/avatars/rodrigograciano.png
   - name: Victor Grazi
     year: 2012
@@ -2605,6 +2608,9 @@ members:
       nomination: Ecuador
     social:
       twitter: https://twitter.com/betoSalazar
+      linkedin: https://www.linkedin.com/in/alberto-salazar-15334154
+      github: https://github.com/lasalazarr
+      sessionize: https://sessionize.com/alberto-salazar
     avatar: img/avatars/betoSalazar.png
   - name: Brian Sam-Bodden
     year: 2023
@@ -3271,6 +3277,10 @@ members:
     city: Munich, Bavaria
     social:
       twitter: https://twitter.com/miragemiko
+      github: https://github.com/mirage22
+      sessionize: https://sessionize.com/miro-wengner
+      website: https://www.wengnermiro.com
+      linkedin: https://www.linkedin.com/in/mwengner/
     avatar: img/avatars/miragemiko.png
   - name: Geertjan Wielenga
     year: 2020
@@ -3341,7 +3351,11 @@ members:
     country:
       nomination: Israel
     social:
+      github: https://github.com/lifey
+      linkedin: https://www.linkedin.com/in/haimyadid
       twitter: https://twitter.com/lifeyx
+      sessionize: https://sessionize.com/lifey
+      youtube: https://www.youtube.com/playlist?list=PL6DehzPjjueerkXWcy1AkoRNxWTLRCnrT
     avatar: img/avatars/lifeyx.png
   - name: Yusuke Yamamoto
     year: 2019
